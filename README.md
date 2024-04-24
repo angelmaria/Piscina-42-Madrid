@@ -1,5 +1,5 @@
 # Piscina-42-Madrid
-## :swimmer: 26 días de inmersión en programación para acceder al Cursus de Escuela 42 🛠
+## :swimmer: 26 días de inmersión en programación para acceder al Cursus de Escuela 42 
 
 El proyecto "Piscina 42" al que tuve el privilegio de participar en `febrero del 2024` representa un viaje intenso de 26 días en el mundo de la programación, desarrollado en la Fundación Telefónica. Durante este periodo, un grupo de apasionados por la tecnología nos sumergimos en el aprendizaje de Bash (Born Again Shell) y C, con el objetivo final de obtener acceder al prestigioso Cursus de École 42.
 
