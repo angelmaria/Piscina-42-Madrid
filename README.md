@@ -23,4 +23,5 @@ El proyecto "Piscina 42" es un tributo al esfuerzo, la dedicación y la pasión 
 
 Mención especial a mis compañeros de viaje durante este apasionante período: @CarlosDavidFelizRamirez @JehielL @Lechattarre
 
-![piscina3](https://github.com/angelmaria/Piscina-42-Madrid/assets/18529354/09d0c774-6be3-4b0c-9d23-0d78614f4014)
+![piscina4](https://github.com/angelmaria/Piscina-42-Madrid/assets/18529354/3a11f51d-4231-4b8d-854e-b9fb13b0e210)
+
