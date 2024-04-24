@@ -15,7 +15,7 @@ Más allá de la adquisición de conocimientos técnicos, la Piscina 42 fomenta 
 
 Al finalizar la Piscina 42, los participantes no solo obtuvimos una valiosa experiencia en programación, sino que también adquirimos la confianza y las habilidades necesarias para afrontar los retos del Cursus de École 42. Este programa de formación intensivo y de gran prestigio nos permitirá covertirnos en desarrolladores de software de alto nivel, capaces de crear soluciones innovadoras y de impactar en el mundo tecnológico.
 
-## :hammber_and_wrench: Un homenaje al esfuerzo y la dedicación
+## 🛠 Un homenaje al esfuerzo y la dedicación
 
 El proyecto "Piscina 42" es un tributo al esfuerzo, la dedicación y la pasión por la tecnología de un grupo de individuos que se atrevieron a desafiarse a sí mismos y a perseguir sus sueños. Su experiencia sirve como inspiración para todos aquellos que aspiran a convertirse en profesionales destacados en el ámbito de la programación y la innovación tecnológica.
 
